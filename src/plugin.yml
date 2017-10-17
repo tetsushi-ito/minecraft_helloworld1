@@ -1,0 +1,4 @@
+name: helloworld
+version: 1.0.0
+author: Tetsushi Ito
+main: jp.co.tyotto.tetsushi.helloworld.Main
